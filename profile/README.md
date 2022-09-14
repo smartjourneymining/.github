@@ -5,5 +5,6 @@ Based on user journeys we will analyse, model, and observe how humans experience
 We will trace data left from users in various systems during repeated interactions with a service over time, on the level of individuals.
 
 SJM will provide researchers and analysts the necessary methods and tools to work across backend systems and detect patterns in vast volumes of user data. 
-This will inform novel guidelines for the successful digitalisation of services. 
-The SJM results will be made available to academia, industry and the public sector, thus supporting improved service quality in our society.
+This will inform novel guidelines for the successful digitalisation of services. The SJM results will be made available to academia, industry and the public sector, thus supporting improved service quality in our society.
+
+*This project has received funding from the Research Council of Norway*
